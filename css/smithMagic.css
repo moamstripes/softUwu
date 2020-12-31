@@ -10,20 +10,20 @@ normal {
 
 success {
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 16px;
 	text-align: left;
 	padding-left: 25;
 	text-indent: -20;
 	leading:-2;
-	color: #F7A8B8;
+	color: #55cdfc;
 }
 
 fail {
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 16px;
 	text-align: left;
 	padding-left: 25;
 	text-indent: -20;
 	leading:-2;
-	color: #55CDFC;
+	color: #f7a8b8;
 }
