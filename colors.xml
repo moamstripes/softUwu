@@ -17,7 +17,7 @@
 	<!--======================================================================-->
 	
 	<entry key="ui.modalbg">0x000000</entry>
-	<entry key="ui.shadow">0x333333</entry>
+	<entry key="ui.shadow">0x63495D</entry>
 	<entry key="ui.shadow.dark">0x000000</entry>
 	<entry key="ui.light">0xffffff</entry>
 	<entry key="ui.bg.window">0x24251f</entry>
@@ -46,7 +46,7 @@
 	<entry key="radio.over">0x2c2e26</entry>
 	
 	<entry key="combobox.over">0x903D3D33</entry>
-	<entry key="combobox.selected">0x252c2d25</entry>
+	<entry key="combobox.selected">0x25F280DA</entry>
 		
 	<entry key="contextmenu.title">0x514a3c</entry>
 	<entry key="contextmenu.title.alpha">0.8</entry>
@@ -66,22 +66,20 @@
 	<entry key="tooltip.border">0x000000</entry>
 	<entry key="tooltip.border.activePin">0x505050</entry>
 	<entry key="tooltip.separator">0xFF9E9E9E</entry>
-
-
 	<entry key="scrollbar.bg">0x444455</entry>
 	<entry key="scrollbar.bar">0xffc0cb</entry>
 	
 	<!-- Couleurs de textes -->
 	
-	<entry key="shortcut">0xdeff00</entry>
+	<entry key="shortcut">0xFFB4C4</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
 	<entry key="hyperlink.link">0xdeff00</entry>
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
-	<entry key="tooltip.text.red">0xc10000</entry>
-	<entry key="tooltip.text.orange">0xf17921</entry>
+	<entry key="tooltip.text.red">0xDB6BB9</entry>
+	<entry key="tooltip.text.orange">0xF1795B</entry>
 	<entry key="tooltip.text.disabled">0x868686</entry>
 	<entry key="tooltip.text.violet">0xBB8BFF</entry>
 	
@@ -93,22 +91,21 @@
 	<entry key="text.glow">0xffffff</entry>
 	<entry key="text.glow.dark">0x000000</entry>
 	<entry key="text.glow.light">0xfffae4</entry>
-	<entry key="text.glow.red">0xed6029</entry>
+	<entry key="text.glow.red">0xED60A8</entry>
 	
 	<entry key="fight.text.multi">0x9a50e5</entry>
 	<entry key="fight.text.air">0x37d63a</entry>
 	<entry key="fight.text.water">0x3286b0</entry>
-	<entry key="fight.text.fire">0xcd2828</entry>
+	<entry key="fight.text.fire">0xF280DA</entry>
 	<entry key="fight.text.earth">0xAC7948</entry>
 	<entry key="fight.text.neutral">0xe8e8e8</entry>
 	
-	<entry key="smithmagic.success">0x365218</entry>
+	<entry key="smithmagic.success">0xFFC0CB</entry>
 	<entry key="smithmagic.fail">0x5a2827</entry>	
-	<entry key="tooltip.bonus">0x52AE3F</entry>
-	<entry key="tooltip.malus">0xCB685E</entry>
+	<entry key="tooltip.bonus">0xFAB7ED</entry>
+	<entry key="tooltip.malus">0xA03ACC</entry>
 
 	<entry key="shop.oldPrice">0x737373</entry>
-		
 	<entry key="area.all">0xc7c7c5</entry>
 	<entry key="area.normal">0xc7c7c5</entry>
 	<entry key="area.weakened">0xd7b352</entry>
@@ -157,11 +154,11 @@
 	<entry key="flag.unknown">0xEE9933</entry>
 	<entry key="flag.right">0x44FF44</entry>
 	<entry key="flag.wrong">0xFF4444</entry>
-	<entry key="flag.quest1">0x16d225</entry>
-	<entry key="flag.quest2">0x00a9fe</entry>
-	<entry key="flag.quest3">0xfe20a9</entry>
-	<entry key="flag.quest4">0xffa91c</entry>
-	<entry key="flag.quest5">0x01fafe</entry>
+	<entry key="flag.quest1">0xF7A8B8</entry>
+	<entry key="flag.quest2">0xC6A9FE</entry>
+	<entry key="flag.quest3">0x82FAFE</entry>
+	<entry key="flag.quest4">0xBE5BB4</entry>
+	<entry key="flag.quest5">0x46C56A</entry>
 	
 	<entry key="gameserver.type0">0x9eb11f</entry>
 	<entry key="gameserver.type1">0x371c12</entry>
