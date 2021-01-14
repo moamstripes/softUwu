@@ -23,7 +23,7 @@
 	<entry key="ui.bg.window">0x24251f</entry>
 	<entry key="ui.wnd.border">0x6F6D61</entry>
 	
-	<entry key="chat.bgColor">0x242424</entry>
+	<entry key="chat.bgColor">0x3B2326</entry>
 	
 	<entry key="gamemenu.background">0x000000</entry>
 	<entry key="gamemenu.background.alpha">0.8</entry>
@@ -94,10 +94,10 @@
 	<entry key="text.glow.red">0xED60A8</entry>
 	
 	<entry key="fight.text.multi">0x9a50e5</entry>
-	<entry key="fight.text.air">0x37d63a</entry>
-	<entry key="fight.text.water">0x3286b0</entry>
-	<entry key="fight.text.fire">0xF280DA</entry>
-	<entry key="fight.text.earth">0xAC7948</entry>
+	<entry key="fight.text.air">0x26B54E</entry>
+	<entry key="fight.text.water">0x7BD2D2</entry>
+	<entry key="fight.text.fire">0xF47469</entry>
+	<entry key="fight.text.earth">0xb8692e</entry>
 	<entry key="fight.text.neutral">0xe8e8e8</entry>
 	
 	<entry key="smithmagic.success">0xFFC0CB</entry>
@@ -166,8 +166,8 @@
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
 
-	<entry key="tacticmode.floor01">0xe3cae6</entry>
-	<entry key="tacticmode.floor02">0xb7a2b9</entry>
+	<entry key="tacticmode.floor01">0xE0A2B9</entry>
+	<entry key="tacticmode.floor02">0xD39AD6</entry>
 	<entry key="tacticmode.block01">0x71C6DE</entry>
 	<entry key="tacticmode.block02">0xA3C8FF</entry>	
 	<entry key="tacticmode.block03">0x59116B</entry>
