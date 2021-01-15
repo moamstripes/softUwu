@@ -74,7 +74,7 @@
 	<entry key="shortcut">0xFFB4C4</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
-	<entry key="hyperlink.link">0xdeff00</entry>
+	<entry key="hyperlink.link">0xF7A8B8</entry>
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
@@ -130,7 +130,7 @@
 	<entry key="progressbar.blue">0x3af2ff</entry>
 	<entry key="progressbar.green">0xccf600</entry>
 	<entry key="progressbar.yellow">0xfcc800</entry>
-    <entry key="progressbar.pink">0xdf1b45</entry>
+    <entry key="progressbar.pink">0xFCAFE0</entry>
     <entry key="progressbar.red">0xff5b3d</entry>
     <entry key="progressbar.gold">0xffea00</entry>
     
