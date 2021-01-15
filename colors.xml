@@ -152,8 +152,8 @@
 	<entry key="map.search.grid.over.alpha">0.6</entry>
 	
 	<entry key="flag.unknown">0xEE9933</entry>
-	<entry key="flag.right">0x44FF44</entry>
-	<entry key="flag.wrong">0xFF4444</entry>
+	<entry key="flag.right">0x77dd77</entry>
+	<entry key="flag.wrong">0xfdfd96</entry>
 	<entry key="flag.quest1">0xF7A8B8</entry>
 	<entry key="flag.quest2">0xC6A9FE</entry>
 	<entry key="flag.quest3">0x82FAFE</entry>
