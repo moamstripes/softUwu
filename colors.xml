@@ -74,7 +74,7 @@
 	<entry key="shortcut">0xFFB4C4</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
-	<entry key="hyperlink.link">0xF7A8B8</entry>
+	<entry key="hyperlink.link">0xED93C3</entry>
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
@@ -154,8 +154,8 @@
 	<entry key="flag.unknown">0xEE9933</entry>
 	<entry key="flag.right">0x77dd77</entry>
 	<entry key="flag.wrong">0xfdfd96</entry>
-	<entry key="flag.quest1">0xF7A8B8</entry>
-	<entry key="flag.quest2">0xC6A9FE</entry>
+	<entry key="flag.quest1">0xF796B8</entry>
+	<entry key="flag.quest2">0xC688FE</entry>
 	<entry key="flag.quest3">0x82FAFE</entry>
 	<entry key="flag.quest4">0xBE5BB4</entry>
 	<entry key="flag.quest5">0x46C56A</entry>
@@ -166,9 +166,9 @@
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
 
-	<entry key="tacticmode.floor01">0xe3cae6</entry>
-	<entry key="tacticmode.floor02">0xb7a2b9</entry>
-	<entry key="tacticmode.block01">0x71C6DE</entry>
-	<entry key="tacticmode.block02">0xA3C8FF</entry>	
-	<entry key="tacticmode.block03">0x59116B</entry>
+	<entry key="tacticmode.floor01">0x906791</entry>
+	<entry key="tacticmode.floor02">0xe3cae6</entry>
+	<entry key="tacticmode.block01">0x754475</entry>
+	<entry key="tacticmode.block02">0x59116B</entry>	
+	<entry key="tacticmode.block03">0xC8D9FF</entry>
 </LangFile>
