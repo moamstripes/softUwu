@@ -88,11 +88,10 @@ sender_p {
 }
 
 
-
 bubble {
-	font-family: 'Brush Script MT', cursive;
-	font-size: 21px;
-	color: #bc4fca;
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #F071BD;
 	padding-left: -15;
 	text-align: left;
 }
