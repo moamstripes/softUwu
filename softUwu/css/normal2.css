@@ -159,7 +159,7 @@ greenboldcenter_p {
 orange {
 	font-family: Roboto;
 	font-size: 16px;
-	color: #ebc304;
+	color: #AE38D9;
 	text-align: justify;
 }
 orangeleft_orange { text-align: left; }
@@ -206,17 +206,17 @@ extrawhitebigleft_extrawhitebig {
 itemset_left { color: #feb336; }
 itemetheral_left { color: #8ab7ee; }
 malus_left { color:#ff0142; }
-bonus_left { color:#65E456; }
-bonusright_right { color:#65E456;}
-exotic_left { color:#a3bcfd;}
-exoticright_right { color:#a3bcfd;}
+bonus_left { color:#EB9AD9; }
+bonusright_right { color:#EB9AD9;}
+exotic_left { color:#B755D4;}
+exoticright_right { color:#B755D4;}
 
 npcdialoganswer_p {
-	color: #deff00;
+	color: #EB9AD9;
 	text-align: left;
 }
 npcdialoganswerover_p {
-	color: #e7ff73;
+	color: #EBB8D9;
 	text-align: left;
 }
 
@@ -238,14 +238,20 @@ p4center {
 	letterSpacing: 0.3;
 }
 /*--------------------- Forgemagie style --------------*/
-smithmagicexo {color:#658fc4;}
-smithmagicfail {color:#cb685e;}
-smithmagicsuccess {color:#52ae3f;}
+smithmagicexo {
+	color:#fa4dd5;
+}
+smithmagicfail {
+	color:#cb685e;
+}
+smithmagicsuccess {
+	color:#52ae3f;
+}
 /*--------------------- Suivi de quête ---------------*/
 questtitle {
 	font-family: Roboto;
 	font-size: 16px;
-	color: #f8cd01;
+	color: #F05BD9;
 	text-align: left;
 	shadow-distance: 1;
 }
