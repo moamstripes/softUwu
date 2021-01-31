@@ -89,9 +89,9 @@ sender_p {
 
 
 bubble {
-	font-family: 'Segoe Print';
+	font-family: Tahoma;
 	font-size: 20px;
-	color: #ff99ff;
+	color: #e758e7;
 	padding-left: -15;
 	text-align: left;
 }
