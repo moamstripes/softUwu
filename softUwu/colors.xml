@@ -167,8 +167,8 @@
 	<entry key="gameserver.type5">0xc36a00</entry>
 
 
-	<entry key="tacticmode.floor01">0xe3cae6</entry>
-	<entry key="tacticmode.floor02">0xb7a2b9</entry>
+	<entry key="tacticmode.floor01">0xb7a2b9</entry>
+	<entry key="tacticmode.floor02">0xe3cae6</entry>
 	<entry key="tacticmode.block01">0x71C6DE</entry>
 	<entry key="tacticmode.block02">0xA3C8FF</entry>	
 	<entry key="tacticmode.block03">0x59116B</entry>
