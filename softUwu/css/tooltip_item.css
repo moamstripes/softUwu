@@ -44,14 +44,14 @@ p {
 .bonus {
 	font-family: Roboto;
 	font-size: 15;
-	color: #4bcfe0;
+	color: #6ae1f1;
 }
 
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
 	font-weight: bold;
-	color: #4bcfe0;
+	color: #6ae1f1;
 }
 
 .malus {
@@ -81,16 +81,16 @@ p {
 
 .overFm {
 	font-family: Roboto;
-	font-size: 16;
+	font-size: 17;
 	font-weight: bold;
-	color: #4ee3f6;
+	color: #33e7ff;
 }
 
 .overFmvalue {
 	font-family: Roboto;
-	font-size: 16;
+	font-size: 17;
 	font-weight: bold;
-	color: #4ee3f6;
+	color: #33e7ff;
 }
 
 .subeffectleftcolumn {
