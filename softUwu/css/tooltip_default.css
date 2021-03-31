@@ -70,3 +70,10 @@ text {
 	color: #c7c7c5;
 	text-align: left;
 }
+
+quote {
+	font-family: Roboto;
+	font-size: 15px;
+	font-style: italic;
+	color: #9D9D9C;
+}

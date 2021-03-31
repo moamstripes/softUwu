@@ -4,6 +4,8 @@ p {
     text-align: left;
     padding-left: 12;
     text-indent: -10;
+    font-style: normal;
+    font-weight: normal;
     leading: -2;
     color: #E8890D;
 }
@@ -88,10 +90,13 @@ sender_p {
 }
 
 
+
 bubble {
-	font-family: Tahoma;
-	font-size: 20px;
-	color: #e758e7;
+	font-family: Roboto;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: italic;
+	color: #ec7afb;
 	padding-left: -15;
-	text-align: left;
+    text-align: left;
 }

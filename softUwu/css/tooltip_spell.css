@@ -100,6 +100,13 @@ p {
 	color: #ebc304;
 }
 
+.importantNotice {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ebc304;
+	margin-left: 32;
+}
+
 .description {
 	font-family: Roboto;
 	font-size: 15;
@@ -158,6 +165,7 @@ p {
 	font-style: italic;
 	color: #6d6d6d;
 	text-align: right;
+	leading: -15;
 }
 
 spellZone {
@@ -172,4 +180,10 @@ spellZone {
     font-size: 18;
     font-weight: bold;
     color: #dfdfdf;
+}
+
+.subtitleheader {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
 }

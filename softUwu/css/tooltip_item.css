@@ -9,14 +9,14 @@ p {
 }
 
 .customli {
-	color: #fdfd96;
+	color: #57574f;
 	margin-left: 22;
 }
 
 .customlirightmargin {
-	color: #fdfd96;
+	color: #57574f;
 	margin-left: 22;
-	margin-right: 104;
+	margin-right: 124;
 }
 
 .value {
@@ -44,27 +44,53 @@ p {
 .bonus {
 	font-family: Roboto;
 	font-size: 15;
-	color: #52AE3F;
+	color: #4bcfe0;
 }
 
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
 	font-weight: bold;
-	color: #52AE3F;
+	color: #4bcfe0;
 }
 
 .malus {
 	font-family: Roboto;
 	font-size: 15;
-	color: #CB685E;
+	color: #cb5e79;
 }
 
 .malusvalue {
 	font-family: Roboto;
 	font-size: 15;
 	font-weight: bold;
-	color: #CB685E;
+	color: #cb5e79;
+}
+
+.neutral {
+	font-family: Roboto;
+	font-size: 15;
+	color: #969695;
+}
+
+.neutralvalue {
+	font-family: Roboto;
+	font-size: 15;
+	color: #969695;
+}
+
+.overFm {
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #4ee3f6;
+}
+
+.overFmvalue {
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #4ee3f6;
 }
 
 .subeffectleftcolumn {
@@ -79,20 +105,20 @@ p {
 .exotic {
 	font-family: Roboto;
 	font-size: 15;
-	color: #658FC4;
+	color: #cc6df8;
 }
 
 .exoticvalue {
 	font-family: Roboto;
 	font-size: 15;
 	font-weight: bold;
-	color: #658FC4;
+	color: #cc6df8;
 }
 
 .theoretical {
 	font-family: Roboto;
 	font-size: 15;
-	color: #c7c7c5 ;
+	color: #969596 ;
 }
 
 .requirement {
@@ -111,6 +137,13 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	color: #ebc304;
+}
+
+.importantNotice {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ebc304;
+	margin-left: 32;
 }
 
 .description {
@@ -182,4 +215,60 @@ spellZone {
 
 .contentmargin {
 	margin-right: 126;
+}
+
+.probaright {
+	font-family: Roboto;
+	font-size: 15;
+	text-align: right;
+	leading: -19;
+}
+
+.common {
+	font-family: Roboto;
+	font-size: 15;
+	text-align: right;
+	leading: -19;
+	color: #848480;
+}
+
+.uncommon {
+	font-family: Roboto;
+	font-size: 15;
+	text-align: right;
+	leading: -19;
+	color: #6db213;
+}
+
+.rare {
+	font-family: Roboto;
+	font-size: 15;
+	text-align: right;
+	leading: -19;
+	color: #1B96FF;
+}
+
+.epic {
+	font-family: Roboto;
+	font-size: 15;
+	text-align: right;
+	leading: -19;
+	color: #9400d3;
+}
+
+.legendary {
+	font-family: Roboto;
+	font-size: 15;
+	text-align: right;
+	leading: -19;
+	color: #ffb400;
+}
+
+.descriptionproba {
+	font-family: Roboto;
+	font-size: 15;
+	color: #E6893D;
+	margin-left: 22;
+	margin-right: 75;
+	text-align: left;
 }

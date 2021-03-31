@@ -113,6 +113,14 @@ boldrightwhite {
 	text-align: right;
 }
 
+boldleftwhite {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+
 boldcenterogrine {
     font-family: Tahoma;
     font-size: 18px;

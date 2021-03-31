@@ -17,7 +17,7 @@
 	<!--======================================================================-->
 	
 	<entry key="ui.modalbg">0x000000</entry>
-	<entry key="ui.shadow">0x63495D</entry>
+	<entry key="ui.shadow">0x333333</entry>
 	<entry key="ui.shadow.dark">0x000000</entry>
 	<entry key="ui.light">0xffffff</entry>
 	<entry key="ui.bg.window">0x24251f</entry>
@@ -35,9 +35,9 @@
 	<entry key="grid.selected">0x30CCCCCC</entry>
 	<entry key="grid.bg.green">0x2C512C</entry>
 	<entry key="grid.bg.red">0x5F190B</entry>
-		<!--	// Temporis IV-->
+	<!--	// Temporis IV-->
 	<entry key="grid.passiveSpell">0x7C6399</entry>
-	
+
 	<entry key="multigrid.line">0x5c5c5d</entry>
 	<entry key="multigrid.subline">0x202020</entry>
 	<entry key="multigrid.selected">0xaae50c</entry>
@@ -46,7 +46,7 @@
 	<entry key="radio.over">0x2c2e26</entry>
 	
 	<entry key="combobox.over">0x903D3D33</entry>
-	<entry key="combobox.selected">0x25F280DA</entry>
+	<entry key="combobox.selected">0x252c2d25</entry>
 		
 	<entry key="contextmenu.title">0x514a3c</entry>
 	<entry key="contextmenu.title.alpha">0.8</entry>
@@ -66,19 +66,21 @@
 	<entry key="tooltip.border">0x000000</entry>
 	<entry key="tooltip.border.activePin">0x505050</entry>
 	<entry key="tooltip.separator">0xFF9E9E9E</entry>
+
+
 	<entry key="scrollbar.bg">0x444455</entry>
-	<entry key="scrollbar.bar">0xffc0cb</entry>
+	<entry key="scrollbar.bar">0xff90d5</entry>
 	
 	<!-- Couleurs de textes -->
 	
-	<entry key="shortcut">0xFFB4C4</entry>
+	<entry key="shortcut">0xfbb9e2</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
-	<entry key="hyperlink.link">0xED93C3</entry>
+	<entry key="hyperlink.link">0xfbb9e2</entry>
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
-	<entry key="tooltip.text.red">0xDB6BB9</entry>
+	<entry key="tooltip.text.red">0xc10xDB6BB90000</entry>
 	<entry key="tooltip.text.orange">0xF1795B</entry>
 	<entry key="tooltip.text.disabled">0x868686</entry>
 	<entry key="tooltip.text.violet">0xBB8BFF</entry>
@@ -100,12 +102,13 @@
 	<entry key="fight.text.earth">0xb8692e</entry>
 	<entry key="fight.text.neutral">0xe8e8e8</entry>
 	
-	<entry key="smithmagic.success">0xFFC0CB</entry>
-	<entry key="smithmagic.fail">0x5a2827</entry>	
-	<entry key="tooltip.bonus">0xFAB7ED</entry>
-	<entry key="tooltip.malus">0xA03ACC</entry>
+	<entry key="smithmagic.success">0x4ee3f6</entry>
+	<entry key="smithmagic.fail">0xcb5e79</entry>	
+	<entry key="tooltip.bonus">0x4ee3f6</entry>
+	<entry key="tooltip.malus">0xcb5e79</entry>
 
 	<entry key="shop.oldPrice">0x737373</entry>
+
 	<entry key="area.all">0xc7c7c5</entry>
 	<entry key="area.normal">0xc7c7c5</entry>
 	<entry key="area.weakened">0xd7b352</entry>
@@ -130,24 +133,24 @@
 	<entry key="progressbar.blue">0x3af2ff</entry>
 	<entry key="progressbar.green">0xccf600</entry>
 	<entry key="progressbar.yellow">0xfcc800</entry>
-    <entry key="progressbar.pink">0xFCAFE0</entry>
+    <entry key="progressbar.pink">0xdf1b45</entry>
     <entry key="progressbar.red">0xff5b3d</entry>
     <entry key="progressbar.gold">0xffea00</entry>
     
     <entry key="progressbar.damage">0xff6a3d</entry>
 	<entry key="progressbar.lifePoints">0xc71c26</entry>
-	<entry key="progressbar.shieldPoints">0x9966CC</entry>	
+	<entry key="progressbar.shieldPoints">0x9966CC</entry>
 	<entry key="progressbar.lifeThreshold">0xebc304</entry>
-	<entry key="progressbar.xp">0xffc0cb</entry>
+	<entry key="progressbar.xp">0x3AF2FF</entry>
 	<entry key="progressbar.guildXp">0x8400FF</entry>
 	<entry key="progressbar.mountXp">0x6CF0E5</entry>
 	<entry key="progressbar.incarnationXp">0x85BCFF</entry>
 	<entry key="progressbar.jobXp">0x9F51A6</entry>
 	<entry key="progressbar.honorPoints">0xFF9400</entry>
 	<entry key="progressbar.pods">0x60BE35</entry>
-	<entry key="progressbar.energy">0xb567a7</entry>
+	<entry key="progressbar.energy">0xccf600</entry>
 	<entry key="progressbar.podsShop">0xcdffb6</entry>
-	
+
 	<entry key="map.search.grid.over">0x151513</entry>
 	<entry key="map.search.grid.over.alpha">0.6</entry>
 	
@@ -165,7 +168,6 @@
 	<entry key="gameserver.type3">0x173c3c</entry>
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
-
 
 	<entry key="tacticmode.floor01">0xb7a2b9</entry>
 	<entry key="tacticmode.floor02">0xe3cae6</entry>

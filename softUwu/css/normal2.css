@@ -1,4 +1,4 @@
-/*-------------------- P Style --------------------*/
+﻿/*-------------------- P Style --------------------*/
 p {
 	font-family: Roboto;
 	font-size: 16px;
@@ -25,6 +25,13 @@ boldcenter_p {
 boldright_p {
 	text-align: right;
 	font-weight: bold;
+}
+darkerbold_p {
+	font-family: Roboto;
+	font-size: 14;
+	color: #696968;
+	font-weight: bold;
+	text-align: justify;
 }
 shadowedcenter_center {
     shadow-distance: 1;
@@ -62,6 +69,12 @@ condensedboldright_condensedbold {
 }
 condensedboldcentert_condensedbold {
     text-align: center;
+}
+
+whitecondensedboldleft_condensedbold {
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 20px;
 }
 
 whitecondensedboldright_condensedbold {
@@ -163,8 +176,11 @@ orange {
 	text-align: justify;
 }
 orangeleft_orange { text-align: left; }
+orangeleftbold_orange { text-align: left; font-weight: bold;}
 orangeright_orange { text-align: right; }
 orangecenter_orange { text-align: center; }
+bigorangeleft_orange { text-align: left; font-size: 18px; }
+bigboldorangeleft_bigorangeleft { font-weight: bold }
 
 /*-------------------- red Style --------------------*/
 red {
@@ -175,6 +191,17 @@ red {
 }
 redcenter_red { text-align: center; }
 redright_red { text-align: right; }
+redboldcenterwhiteshadow {
+	font-family: Roboto;
+	font-size: 32px;
+	color: #eb0000;
+	text-align: justify;
+	font-weight: bold;
+	shadow-angle: 360;
+	shadow-distance: 0;
+	shadow-strength: 5;
+	shadow-color: #ffffff
+}
 
 /*-------------------- white Style --------------------*/
 white{
@@ -204,12 +231,12 @@ extrawhitebigleft_extrawhitebig {
 
 /*-------------------- HDV Style --------------------*/
 itemset_left { color: #feb336; }
-itemetheral_left { color: #8ab7ee; }
-malus_left { color:#ff0142; }
-bonus_left { color:#EB9AD9; }
-bonusright_right { color:#EB9AD9;}
-exotic_left { color:#B755D4;}
-exoticright_right { color:#B755D4;}
+itemetheral_left { color: #70eaff; }
+malus_left { color:#cb5e79; }
+bonus_left { color:#4ee3f6; }
+bonusright_right { color:#4ee3f6;}
+exotic_left { color:#c95bfb;}
+exoticright_right { color:#c95bfb;}
 
 npcdialoganswer_p {
 	color: #EB9AD9;
@@ -237,16 +264,6 @@ p4center {
 	text-align: center;
 	letterSpacing: 0.3;
 }
-/*--------------------- Forgemagie style --------------*/
-smithmagicexo {
-	color:#fa4dd5;
-}
-smithmagicfail {
-	color:#cb685e;
-}
-smithmagicsuccess {
-	color:#52ae3f;
-}
 /*--------------------- Suivi de quête ---------------*/
 questtitle {
 	font-family: Roboto;
@@ -273,4 +290,28 @@ questlevel_p {
 }
 spellobtained_greenboldcenter_p {
     font-size: 20px;
+}
+
+hyperlink {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #EB9AD9;
+}
+
+hyperlinkright {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #EB9AD9;
+	text-align: right;
+}
+
+hyperlinkcenter {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #EB9AD9;
+	text-align: center;
+}
+
+hyperlink:hover {
+	color: #f6a7e5;
 }

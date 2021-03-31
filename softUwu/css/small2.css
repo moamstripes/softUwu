@@ -36,11 +36,11 @@ bold {
 }
 
 italic {
-    font-family: Roboto;
-    font-size: 14;
-    color: #c7c7c5;
-    text-align: justify;
-    font-style: italic;
+	font-family: Roboto;
+	font-size: 14;
+	color: #c7c7c5;
+	text-align: justify;
+	font-style: italic;
 }
 
 boldleft {
@@ -230,42 +230,53 @@ whitemediumcenter {
 }
 
 darkboldcenter {
-    font-family: Roboto;
-    font-size: 14;
-    color: #3c381b;
-    font-weight: bold;
-    text-align: center;
+	font-family: Roboto;
+	font-size: 14;
+	color: #3c381b;
+	font-weight: bold;
+	text-align: center;
 }
 
 green {
 	font-family: Roboto;
 	font-size: 14;
-	color: #f5cee6;
+	color: #fbb9e2;
 	text-align: justify;
 }
 greenleft {
 	font-family: Roboto;
 	font-size: 14;
-	color: #f5cee6;
+	color: #fbb9e2;
 	text-align: left;
 }
+
+greenleftlight {
+	font-family: Roboto;
+	font-size: 14;
+	color: #fbb9e2;
+	font-weight: lighter;
+	text-align: left;
+}
+
 greenright {
 	font-family: Roboto;
 	font-size: 14;
-	color: #f5cee6;
+	color: #fbb9e2;
 	text-align: right;
 }
+
 greencenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #f5cee6;
+	color: #fbb9e2;
 	text-align: center;
 	text-decoration: none;
 }
+
 greenunderlinecenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #f5cee6;
+	color: #fbb9e2;
 	text-align: center;
 	text-decoration: underline;
 }
@@ -273,7 +284,7 @@ greenunderlinecenter {
 truegreen {
 	font-family: Roboto;
 	font-size: 14;
-	color: #7fc717;
+	color: #ff90d5;
 	text-align: justify;
 }
 
@@ -299,6 +310,14 @@ orangebold {
 	text-align: left;
 }
 
+orangeitalic {
+	font-family: Roboto;
+	font-size: 14;
+	color: #ebc304;
+	font-weight: italic;
+	text-align: left;
+}
+
 itemset_left {
 	color: #feb336;
 }
@@ -307,6 +326,14 @@ orangeleft {
 	font-family: Roboto;
 	font-size: 14;
 	color: #ebc304;
+	text-align: left;
+}
+
+orangeleftlight {
+	font-family: Roboto;
+	font-size: 14;
+	color: #ebc304;
+	font-weight: normal;
 	text-align: left;
 }
 
@@ -320,6 +347,14 @@ orangecenter {
 	font-family: Roboto;
 	font-size: 14;
 	color: #ebc304;
+	text-align: center;
+}
+
+orangecenterbold {
+	font-family: Roboto;
+	font-size: 14;
+	color: #ebc304;
+	font-weight: bold;
 	text-align: center;
 }
 
@@ -452,7 +487,7 @@ grey_p {
 }
 
 italicgrey_grey {
-    font-style: italic;
+	font-style: italic;
 }
 
 greybold_grey {
@@ -483,10 +518,18 @@ newfeaturecenter {
 }
 
 greencenterfeature_newfeaturecenter {
-	color: #f5cee6;
+	color: #fbb9e2;
 }
 
 rightfeature_newfeaturecenter {
 	color: #c8c8c8;
 	text-align: right;
+}
+
+smalldarkboldcenter_darkboldcenter {
+	font-family: Roboto;
+	font-size: 12;
+	color: #3c381b;
+	font-weight: bold;
+	text-align: center;
 }
