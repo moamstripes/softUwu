@@ -44,14 +44,14 @@ p {
 .bonus {
 	font-family: Roboto;
 	font-size: 15;
-	color: #6ae1f1;
+	color: #67c8c0;
 }
 
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
 	font-weight: bold;
-	color: #6ae1f1;
+	color: #67c8c0;
 }
 
 .malus {
@@ -70,27 +70,27 @@ p {
 .neutral {
 	font-family: Roboto;
 	font-size: 15;
-	color: #969695;
+	color: #7e7e7e;
 }
 
 .neutralvalue {
 	font-family: Roboto;
 	font-size: 15;
-	color: #969695;
+	color: #7e7e7e;
 }
 
 .overFm {
 	font-family: Roboto;
-	font-size: 17;
+	font-size: 16;
 	font-weight: bold;
-	color: #33e7ff;
+	color: #6ae1f1;
 }
 
 .overFmvalue {
 	font-family: Roboto;
-	font-size: 17;
+	font-size: 16;
 	font-weight: bold;
-	color: #33e7ff;
+	color: #6ae1f1;
 }
 
 .subeffectleftcolumn {
@@ -118,13 +118,13 @@ p {
 .theoretical {
 	font-family: Roboto;
 	font-size: 15;
-	color: #969596 ;
+	color: #494949;
 }
 
 .requirement {
 	font-family: Roboto;
 	font-size: 15;
-	color: #d9ad67;
+	color: #da70d1;
 }
 
 .special {
@@ -136,7 +136,7 @@ p {
 .set {
 	font-family: Roboto;
 	font-size: 15;
-	color: #ebc304;
+	color: #e7c933;
 }
 
 .importantNotice {
@@ -156,13 +156,13 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	font-style: italic;
-	color: #9D9D9C;
+	color: #9d9d9d;
 }
 
 .headerp {
 	font-family: Roboto;
 	font-size: 15;
-	color: #c7c7c5;
+	color: #888887;
 	margin-right: 126;
 }
 
@@ -193,7 +193,7 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	font-style: italic;
-	color: #6d6d6d;
+	color: #573757;
 	text-align: left;
 	leading: -15;
 }
@@ -202,7 +202,7 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	font-style: italic;
-	color: #6d6d6d;
+	color: #573757;
 	text-align: right;
 }
 

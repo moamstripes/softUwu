@@ -1,21 +1,21 @@
 p {
 	font-family: RobotoCondensed;
 	font-size: 22px;
-	color: #f8cd01;
+	color: #eca2d0;
 	font-weight: bold;
 	text-align: left;
 }
 right {
 	font-family: RobotoCondensed;
 	font-size: 22px;
-	color: #f8cd01;
+	color: #eca2d0;
 	font-weight: bold;
 	text-align: right;
 }
 center {
 	font-family: RobotoCondensed;
 	font-size: 22px;
-	color: #f8cd01;
+	color: #eca2d0;
 	font-weight: bold;
 	text-align: center;
 }
@@ -27,21 +27,21 @@ shadowedcenter_center{
 small {
 	font-family: RobotoCondensed;
 	font-size: 18px;
-	color: #f8cd01;
+	color: #eca2d0;
 	font-weight: bold;
 	text-align: left;
 }
 smallright {
 	font-family: RobotoCondensed;
 	font-size: 18px;
-	color: #f8cd01;
+	color: #eca2d0;
 	font-weight: bold;
 	text-align: right;
 }
 smallcenter {
 	font-family: RobotoCondensed;
 	font-size: 18px;
-	color: #f8cd01;
+	color: #eca2d0;
 	font-weight: bold;
 	text-align: center;
 }
