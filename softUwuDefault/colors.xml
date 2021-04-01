@@ -169,9 +169,4 @@
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
 
-	<entry key="tacticmode.floor01">0xbdbfbf</entry>
-	<entry key="tacticmode.floor02">0xb7b9b9</entry>
-	<entry key="tacticmode.block01">0xf6f6f6</entry>
-	<entry key="tacticmode.block02">0x7c7c7c</entry>	
-	<entry key="tacticmode.block03">0x9c9c9c</entry>
 </LangFile>

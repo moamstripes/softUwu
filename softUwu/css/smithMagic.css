@@ -9,7 +9,7 @@ successhistory {
 	font-family: Roboto;
 	font-size: 15px;
 	text-align: left;
-	color: #4bcfe0;
+	color: #67c8c0;
 }
 
 neutralhistory {
@@ -23,7 +23,7 @@ exohistory {
 	font-family: Roboto;
 	font-size: 15px;
 	text-align: left;
-	color: #c95bfb;
+	color: #cc6df8;
 }
 
 failurehistory {
@@ -61,7 +61,7 @@ exoeffect {
 	font-size: 16px;
 	text-align: justify;
 	font-weight: bold;
-	color:#c95bfb;
+	color:#cc6df8;
 }
 
 faileffect {
@@ -77,7 +77,7 @@ successeffect {
 	font-size: 16px;
 	text-align: justify;
 	font-weight: normal;
-	color:#4bcfe0;
+	color:#67c8c0;
 }
 
 overeffect {
@@ -85,5 +85,5 @@ overeffect {
     font-size: 17px;
     text-align: justify;
     font-weight: bold;
-    color:#4ee3f6;
+    color:#6ae1f1;
 }
