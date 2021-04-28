@@ -80,7 +80,7 @@
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
-	<entry key="tooltip.text.red">0xc10xDB6BB90000</entry>
+	<entry key="tooltip.text.red">0xc10000</entry>
 	<entry key="tooltip.text.orange">0xF1795B</entry>
 	<entry key="tooltip.text.disabled">0x868686</entry>
 	<entry key="tooltip.text.violet">0xBB8BFF</entry>
@@ -102,9 +102,9 @@
 	<entry key="fight.text.earth">0xb8692e</entry>
 	<entry key="fight.text.neutral">0xe8e8e8</entry>
 	
-	<entry key="smithmagic.success">0x4ee3f6</entry>
+	<entry key="smithmagic.success">0x61A0D4</entry>
 	<entry key="smithmagic.fail">0xcb5e79</entry>	
-	<entry key="tooltip.bonus">0x4ee3f6</entry>
+	<entry key="tooltip.bonus">0x61A0D4</entry>
 	<entry key="tooltip.malus">0xcb5e79</entry>
 
 	<entry key="shop.oldPrice">0x737373</entry>
