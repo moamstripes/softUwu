@@ -102,9 +102,9 @@
 	<entry key="fight.text.earth">0xb8692e</entry>
 	<entry key="fight.text.neutral">0xe8e8e8</entry>
 	
-	<entry key="smithmagic.success">0x4ee3f6</entry>
+	<entry key="smithmagic.success">0x61A0D4</entry>
 	<entry key="smithmagic.fail">0xcb5e79</entry>	
-	<entry key="tooltip.bonus">0x4ee3f6</entry>
+	<entry key="tooltip.bonus">0x61A0D4</entry>
 	<entry key="tooltip.malus">0xcb5e79</entry>
 
 	<entry key="shop.oldPrice">0x737373</entry>
