@@ -73,10 +73,10 @@
 	
 	<!-- Couleurs de textes -->
 	
-	<entry key="shortcut">0xfbb9e2</entry>
+	<entry key="shortcut">0xE67ACE</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
-	<entry key="hyperlink.link">0xfbb9e2</entry>
+	<entry key="hyperlink.link">0xE67ACE</entry>
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
