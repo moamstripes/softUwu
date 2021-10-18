@@ -5,9 +5,13 @@
 
 > A uwu theme for [Dofus].
 
-![Light](https://i.imgur.com/4KCasw1.webp)
+###### Light
 
-![Dark](https://i.imgur.com/0OmY6Sa.webp)
+![Screenshot](https://i.imgur.com/4KCasw1.webp)
+
+###### Dark
+
+![Screenshot](https://i.imgur.com/0OmY6Sa.webp)
 
 ## Install
 
