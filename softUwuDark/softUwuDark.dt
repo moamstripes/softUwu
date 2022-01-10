@@ -1,0 +1,11 @@
+<theme>
+    <name>softUwu</name>
+	<skinType>1</skinType>
+    <description>Ayez SoftUwu déjà installé, clic install + redémarrer | Mode Tactique Sombre | https://discord.gg/AXBbVDPHSD pour le discord d'aide !</description>
+    <previewUri>previewu.jpg</previewUri>
+	<author>Moam</author>
+	<version>2.6.0</version>
+	<dofusVersion>2.64</dofusVersion> 
+    <creationDate>29/12/2020 </creationDate> 
+    <modificationDate>30/08/2022</modificationDate>
+</theme>
