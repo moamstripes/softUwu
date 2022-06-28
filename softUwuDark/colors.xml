@@ -76,8 +76,8 @@
 	<entry key="shortcut">0xFBA4E2</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
-	<entry key="hyperlink.link">0xFBA4E2</entry>
-	<entry key="hyperlink.hover">0xD888E3</entry>
+	<entry key="hyperlink.link">0xDD7CF0</entry>
+	<entry key="hyperlink.hover">0xC68DEB</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
 	<entry key="tooltip.text.red">0xc10xDB6BB90000</entry>
