@@ -17,7 +17,7 @@
 #### Tactic Mode
 ###### Light
 
-![LightTactic Screenshot](https://i.imgur.com/f6Rsc3b.png)
+![LightTactic Screenshot](https://i.imgur.com/QhGLJmm.png)
 
 ###### Dark
 
