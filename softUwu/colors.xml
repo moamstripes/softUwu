@@ -9,7 +9,8 @@
 			Le nom du fichier (sans son extension) est automatiquement ajoute avant la clef. Par
 			exemple, pour faire reference aux clefs declarees dans le fichier "colors.xml", il
 			faudra ajouter "colors." aux noms des clefs
-			 Certaines grilles supportent le format AARRGGBB
+			Certaines grilles supportent le format AARRGGBB
+			coucou a toi qui regarde les couleurs du theme uwu <3
 	-->
 	
 	<!--======================================================================-->
@@ -125,6 +126,8 @@
 	<entry key="icon.green">0xb2d71b</entry>
 	<entry key="icon.grey">0xc7c7c5</entry>
 
+	<entry key="input.tooManyCharacters">0xeb0000</entry>
+
 	<!-- Divers -->
 	
 	<entry key="progressbar.background">0x000000</entry>
@@ -162,6 +165,11 @@
 	<entry key="flag.quest3">0x82FAFE</entry>
 	<entry key="flag.quest4">0xBE5BB4</entry>
 	<entry key="flag.quest5">0x46C56A</entry>
+	<entry key="flag.quest6">0xeea8ff</entry>
+	<entry key="flag.quest7">0xFFE377</entry>
+	<entry key="flag.quest8">0xF9E5E0</entry>
+	<entry key="flag.quest9">0x7FFFC2</entry>
+	<entry key="flag.quest10">0x5E75F0</entry>
 	
 	<entry key="gameserver.type0">0x9eb11f</entry>
 	<entry key="gameserver.type1">0x371c12</entry>
