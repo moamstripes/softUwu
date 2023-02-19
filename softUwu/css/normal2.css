@@ -18,6 +18,10 @@ bold_p {
 	text-align: left;
 	font-weight: bold;
 }
+leftmedium_p {
+	text-align: left;
+	font-size: 15px;
+}
 boldcenter_p {
 	text-align: center;
 	font-weight: bold;
@@ -37,6 +41,12 @@ shadowedcenter_center {
     shadow-distance: 1;
     shadow-blurX: 3;
     shadow-blurY: 3;
+}
+
+whiteboldcenter_bold {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 20px;
 }
 /*-------------------- disabled Style --------------------*/
 disabledboldcenter_p {
@@ -147,6 +157,19 @@ browncondensedboldcenter {
 	text-align: center;
 }
 
+/*-------------------- blue Style --------------------*/
+
+blue {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #22f7fd;
+	text-align: justify;
+}
+
+blueright_blue{
+	text-align: right;
+}
+
 /*-------------------- green Style --------------------*/
 green {
 	font-family: Roboto;
@@ -181,8 +204,22 @@ orangeright_orange { text-align: right; }
 orangecenter_orange { text-align: center; }
 bigorangeleft_orange { text-align: left; font-size: 18px; }
 bigboldorangeleft_bigorangeleft { font-weight: bold }
+orangecentershadow_orange {
+	text-align: center;
+	shadow-angle: 360;
+	shadow-distance: 0;
+	shadow-strength: 5;
+	shadow-color: #36382d
+}
 
 /*-------------------- red Style --------------------*/
+lightred {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #FF5C55;
+	text-align: justify;
+}
+
 red {
 	font-family: Roboto;
 	font-size: 16px;
@@ -190,7 +227,13 @@ red {
 	text-align: justify;
 }
 redcenter_red { text-align: center; }
+
+lightredcenter_lightred { text-align: center; }
+
+
 redright_red { text-align: right; }
+
+lightredright_lightred { text-align: right; }
 redboldcenterwhiteshadow {
 	font-family: Roboto;
 	font-size: 32px;
@@ -314,4 +357,29 @@ hyperlinkcenter {
 
 hyperlink:hover {
 	color: #f6a7e5;
+}
+
+dark {
+	font-family: Roboto;
+	color: #696968;
+	text-align: justify;
+	font-weight: normal;
+}
+darkleft {
+	font-family: Roboto;
+	color: #696968;
+	font-weight: normal;
+	text-align: left;
+}
+darkright {
+	font-family: Roboto;
+	color: #696968;
+	font-weight: normal;
+	text-align: right;
+}
+darkcenter {
+	font-family: Roboto;
+	color: #696968;
+	font-weight: normal;
+	text-align: center;
 }

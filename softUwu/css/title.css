@@ -19,6 +19,15 @@ center {
 	font-weight: bold;
 	text-align: center;
 }
+
+redcenter {
+	font-family: RobotoCondensed;
+	font-size: 22px;
+	color: #eb0000;
+	font-weight: bold;
+	text-align: center;
+}
+
 shadowedcenter_center{
 	shadow-distance: 2;
 	shadow-blurX: 2;

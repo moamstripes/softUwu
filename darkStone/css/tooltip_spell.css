@@ -52,6 +52,10 @@ p {
 	color: #CB685E;
 }
 
+.subeffect {
+	margin-left: 32;
+}
+
 .subeffectleftcolumn {
 	margin-left: 32;
 	leading: -15;

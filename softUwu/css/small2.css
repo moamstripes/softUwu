@@ -19,6 +19,16 @@ right {
 	font-weight: normal;
 	text-align: right;
 }
+
+rightpadding {
+	font-family: Roboto;
+	font-size: 14;
+	color: #c7c7c5;
+	font-weight: normal;
+	text-align: right;
+	padding-right: 5px;
+}
+
 center {
 	font-family: Roboto;
 	font-size: 14;
@@ -237,6 +247,17 @@ darkboldcenter {
 	text-align: center;
 }
 
+blue {
+	font-family: Roboto;
+	font-size: 14;
+	color: #22f7fd;
+	text-align: justify;
+}
+
+blueright_blue{
+	text-align: right;
+}
+
 green {
 	font-family: Roboto;
 	font-size: 14;
@@ -358,11 +379,24 @@ orangecenterbold {
 	text-align: center;
 }
 
+lightred {
+	font-family: Roboto;
+	font-size: 14;
+	color: #FF5C55;
+	text-align: justify;
+}
+
 red {
 	font-family: Roboto;
 	font-size: 14;
 	color: #eb0000;
 	text-align: justify;
+}
+lightredleft {
+	font-family: Roboto;
+	font-size: 14;
+	color: #FF5C55;
+	text-align: left;
 }
 redleft {
 	font-family: Roboto;
@@ -370,11 +404,23 @@ redleft {
 	color: #eb0000;
 	text-align: left;
 }
+lightredright {
+	font-family: Roboto;
+	font-size: 14;
+	color: #FF5C55;
+	text-align: right;
+}
 redright {
 	font-family: Roboto;
 	font-size: 14;
 	color: #eb0000;
 	text-align: right;
+}
+lightredcenter {
+	font-family: Roboto;
+	font-size: 14;
+	color: #FF5C55;
+	text-align: center
 }
 redcenter {
 	font-family: Roboto;
@@ -532,4 +578,16 @@ smalldarkboldcenter_darkboldcenter {
 	color: #3c381b;
 	font-weight: bold;
 	text-align: center;
+}
+
+bonus {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #52AE3F;
+}
+
+malus {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #CB685E;
 }
