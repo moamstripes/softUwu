@@ -1,18 +1,18 @@
 [{
     "author": "Moam",
-    "name": "softUwu",
+    "name": "softUwu BETA",
     "keyWords": "softUwu, Thèmes",
-    "version": "2.7.2",
-    "dofusVersion": "2.66",
-    "description": "Basé sur softPink de Syleak | https://discord.gg/AXBbVDPHSD pour le discord d'aide !",
+    "version": "2.8.0",
+    "dofusVersion": "2.67",
+    "description": "Attention c'est une beta uwu",
     "url": "https://github.com/moamstripes/softUwu/raw/main/softUwu/softUwu.zip",
     "previewUrl": "https://i.imgur.com/MCmXuLi.jpeg",
     "creationDate": "29/12/2020",
-    "modificationDate": "18/02/2023"
+    "modificationDate": "08/03/2023"
 },
 {
     "author": "Moam",
-    "name": "softUwuDarkTactic",
+    "name": "softUwuDarkTactic BETA",
     "keyWords": "softUwuDark, Thèmes",
     "version": "2.7.2",
     "dofusVersion": "2.66",
@@ -20,6 +20,6 @@
     "url": "https://github.com/moamstripes/softUwu/raw/main/softUwuDark/softUwu.zip",
     "previewUrl": "https://i.imgur.com/0OmY6Sa.png",
     "creationDate": "29/12/2020",
-    "modificationDate": "18/02/2023"
+    "modificationDate": "08/03/2023"
 }
 ]
