@@ -12,7 +12,7 @@
 ![Inventory Screenshot](https://i.imgur.com/MCmXuLi.jpeg)
 
 ###### Smithmagic
-![Smithmagic Screenshot](https://i.imgur.com/s00y7H4.png)
+![Smithmagic Screenshot](https://i.imgur.com/E0ddfzu.png)
 
 #### Tactic Mode
 ###### Light

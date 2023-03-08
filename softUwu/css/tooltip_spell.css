@@ -37,7 +37,6 @@ p {
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #67c8c0;
 }
 
@@ -50,8 +49,11 @@ p {
 .malusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #CB685E;
+}
+
+.subeffect {
+	margin-left: 32;
 }
 
 .subeffectleftcolumn {
@@ -72,7 +74,6 @@ p {
 .exoticvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #658FC4;
 }
 
@@ -186,4 +187,11 @@ spellZone {
 	font-family: Roboto;
 	font-size: 15;
 	color: #c7c7c5;
+}
+
+.valueLineWithIcon {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }

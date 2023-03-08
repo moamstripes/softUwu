@@ -52,6 +52,10 @@ p {
 	color: #d0483a;
 }
 
+.subeffect {
+	margin-left: 32;
+}
+
 .subeffectleftcolumn {
 	margin-left: 32;
 	leading: -15;
@@ -182,4 +186,11 @@ spellZone {
 	font-family: Roboto;
 	font-size: 15;
 	color: #c7c7c5;
+}
+
+.valueLineWithIcon {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }

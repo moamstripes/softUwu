@@ -1,0 +1,7 @@
+<theme>
+    <name>darkStone</name>
+    <skinType>1</skinType>
+    <description>[ui.option.theme.dark]</description>
+    <previewUri>darkStonePreview.jpg</previewUri>
+	<author>Ankama Games</author>
+</theme>

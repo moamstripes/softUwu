@@ -50,7 +50,6 @@ p {
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #67c8c0;
 }
 
@@ -63,7 +62,6 @@ p {
 .malusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #cb5e79;
 }
 
@@ -89,7 +87,6 @@ p {
 .overFmvalue {
 	font-family: Roboto;
 	font-size: 16;
-	font-weight: bold;
 	color: #6ae1f1;
 }
 
@@ -111,7 +108,6 @@ p {
 .exoticvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #cc6df8;
 }
 
@@ -271,4 +267,11 @@ spellZone {
 	margin-left: 22;
 	margin-right: 75;
 	text-align: left;
+}
+
+.valueLineWithIcon {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }
