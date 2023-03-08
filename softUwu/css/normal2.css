@@ -1,4 +1,4 @@
-﻿/*-------------------- P Style --------------------*/
+/*-------------------- P Style --------------------*/
 p {
 	font-family: Roboto;
 	font-size: 16px;
@@ -12,6 +12,10 @@ right_p { text-align: right; }
 center_p { text-align: center; }
 italic_p { font-style: italic; }
 italiccenter_center_p { font-style: italic; }
+italicright_p {
+	font-style: italic;
+	text-align: right;
+}
 underline_p { text-decoration: underline; }
 p4_p{color: #6b6b6b;}
 bold_p {
@@ -202,6 +206,7 @@ orangeleft_orange { text-align: left; }
 orangeleftbold_orange { text-align: left; font-weight: bold;}
 orangeright_orange { text-align: right; }
 orangecenter_orange { text-align: center; }
+orangecenterbold_orange { text-align: center; font-weight: bold;}
 bigorangeleft_orange { text-align: left; font-size: 18px; }
 bigboldorangeleft_bigorangeleft { font-weight: bold }
 orangecentershadow_orange {
