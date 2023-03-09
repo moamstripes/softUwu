@@ -12,6 +12,10 @@ right_p { text-align: right; }
 center_p { text-align: center; }
 italic_p { font-style: italic; }
 italiccenter_center_p { font-style: italic; }
+italicright_p {
+	font-style: italic;
+	text-align: right;
+}
 underline_p { text-decoration: underline; }
 p4_p{color: #6b6b6b;}
 bold_p {
@@ -201,6 +205,7 @@ orange {
 orangeleft_orange { text-align: left; }
 orangeleftbold_orange { text-align: left; font-weight: bold;}
 orangeright_orange { text-align: right; }
+orangecenterbold_orange { text-align: center; font-weight: bold;}
 orangecenter_orange { text-align: center; }
 bigorangeleft_orange { text-align: left; font-size: 18px; }
 bigboldorangeleft_bigorangeleft { font-weight: bold }

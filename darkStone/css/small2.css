@@ -591,3 +591,74 @@ malus {
 	font-size: 14px;
 	color: #CB685E;
 }
+
+vulnerableleft
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #CB685E;
+	text-align: left;
+}
+vulnerableright
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #CB685E;
+	text-align: right;
+}
+weakenedleft
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #ffac4b;
+	text-align: left;
+}
+weakenedright
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #ffac4b;
+	text-align: right;
+}
+protectedright
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #9966CC;
+	text-align: right;
+}
+protectedleft
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #9966CC;
+	text-align: left;
+}
+normalleft
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #21b6ff;
+	text-align: left;
+}
+normalright
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #21b6ff;
+	text-align: right;
+}
+inhibitedleft
+ {
+	 font-family: Roboto;
+	 font-size: 14px;
+	 color: #65E456;
+	 text-align: left;
+ }
+inhibitedright
+{
+	font-family: Roboto;
+	font-size: 14px;
+	color: #65E456;
+	text-align: right;
+}
