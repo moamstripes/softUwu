@@ -173,7 +173,11 @@
 	
 	<entry key="tacticmode.floor01">0x928293</entry>
 	<entry key="tacticmode.floor02">0xBCA8BF</entry>
-	<entry key="tacticmode.block01">0x917A9170</entry>
-	<entry key="tacticmode.block02">0x91909170</entry>	
-	<entry key="tacticmode.block03">0x43434370</entry>
+	<entry key="tacticmode.block01">0x917A91</entry>
+	<entry key="tacticmode.block02">0x919091</entry>	
+	<entry key="tacticmode.block03">0x434343</entry>
+	<entry key="tacticmode.block01.alpha">0.6</entry>
+	<entry key="tacticmode.block02.alpha">0.6</entry>	
+	<entry key="tacticmode.block03.alpha">0.6</entry>
+
 </LangFile>
