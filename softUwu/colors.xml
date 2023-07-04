@@ -171,6 +171,9 @@
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
 	
+	<entry key="challenge.challenge">0x67abce</entry>
+	<entry key="challenge.achievement">0xc745ba</entry>
+
 	<entry key="tacticmode.floor01">0x928293</entry>
 	<entry key="tacticmode.floor02">0xBCA8BF</entry>
 	<entry key="tacticmode.block01">0x917A91</entry>
