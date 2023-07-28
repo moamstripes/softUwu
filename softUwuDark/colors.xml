@@ -10,7 +10,7 @@
 			exemple, pour faire reference aux clefs declarees dans le fichier "colors.xml", il
 			faudra ajouter "colors." aux noms des clefs
 			Certaines grilles supportent le format AARRGGBB
-			coucou a toi qui regarde les couleurs du theme uwu <3 
+			coucou a toi qui regarde les couleurs du theme uwu <3
 	-->
 	
 	<!--======================================================================-->
@@ -36,7 +36,7 @@
 	<entry key="grid.selected">0x30CCCCCC</entry>
 	<entry key="grid.bg.green">0x2C512C</entry>
 	<entry key="grid.bg.red">0x5F190B</entry>
-	<!--	// Temporis IV-->
+
 	<entry key="grid.passiveSpell">0x7C6399</entry>
 
 	<entry key="multigrid.line">0x5c5c5d</entry>
@@ -81,7 +81,7 @@
 	<entry key="hyperlink.hover">0xC68DEB</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
-	<entry key="tooltip.text.red">0xc10xDB6BB90000</entry>
+	<entry key="tooltip.text.red">0xc10000</entry>
 	<entry key="tooltip.text.orange">0xF1795B</entry>
 	<entry key="tooltip.text.disabled">0x868686</entry>
 	<entry key="tooltip.text.violet">0xBB8BFF</entry>
@@ -113,15 +113,9 @@
 	<entry key="area.all">0xc7c7c5</entry>
 	<entry key="area.normal">0xc7c7c5</entry>
 	<entry key="area.weakened">0xd7b352</entry>
-	<entry key="area.sabotaged">0xb652d7</entry>
 	<entry key="area.vulnerable">0xd76552</entry>
-	<entry key="area.capturable">0xb2d71b</entry>
-	<entry key="area.all.dark">0x696968</entry>
-	<entry key="area.normal.dark">0x696968</entry>
-	<entry key="area.weakened.dark">0x8c7330</entry>
-	<entry key="area.sabotaged.dark">0x6f427e</entry>
-	<entry key="area.vulnerable.dark">0x7e4b42</entry>
-	<entry key="area.capturable.dark">0x5d6f14</entry>
+	<entry key="area.anomaly">0xb652d7</entry>
+	<entry key="area.bonus">0xb2d71b</entry>
 
 	<entry key="icon.green">0xb2d71b</entry>
 	<entry key="icon.grey">0xc7c7c5</entry>
@@ -176,10 +170,14 @@
 	<entry key="gameserver.type3">0x173c3c</entry>
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
+	
+	<entry key="challenge.challenge">0x98d8f3</entry>
+	<entry key="challenge.achievement">0xf2afe8</entry>
 
 	<entry key="tacticmode.floor01">0x1d1d1d</entry>
 	<entry key="tacticmode.floor02">0x5f5f5f</entry>
 	<entry key="tacticmode.block01">0x282828</entry>
 	<entry key="tacticmode.block02">0x202020</entry>	
 	<entry key="tacticmode.block03">0x101010</entry>
+
 </LangFile>
