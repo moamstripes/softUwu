@@ -9,7 +9,7 @@
 
 ## Preview
 ###### Inventory and caracteristics
-![Inventory Screenshot](https://i.imgur.com/MCmXuLi.jpeg)
+![Inventory Screenshot](https://i.imgur.com/03ZM9P4.jpeg)
 
 ###### Smithmagic
 ![Smithmagic Screenshot](https://i.imgur.com/E0ddfzu.png)
