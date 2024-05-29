@@ -12,7 +12,7 @@ p {
 
 /* Global */
 p0_p {
-	color: #E9E9E9;
+    color: #E9E9E9;
 }
 
 /* Team */
@@ -85,6 +85,11 @@ p14_p {
     color: #9EC79D;
 }
 
+/* Event */
+p15_p {
+    color: #FFFF33;
+}
+
 sender_p {
     color: #1B96FF;
 }
@@ -92,9 +97,9 @@ sender_p {
 
 
 bubble {
-	font-family: Tahoma;
-	font-size: 18px;
-	color: #312D24;
-	padding-left: -15;
-	text-align: left;
+    font-family: Tahoma;
+    font-size: 18px;
+    color: #312D24;
+    padding-left: -15;
+    text-align: left;
 }
